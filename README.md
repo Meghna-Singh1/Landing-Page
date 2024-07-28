@@ -42,5 +42,8 @@ Welcome to our Consultancy Services Landing Page, a professional and visually ap
 - **JavaScript**: For interactivity and dynamic content loading.
 - **jQuery**: For simplified DOM manipulation and event handling.
 
+  You can view the live landing page [here](https://phenomenal-bubblegum-65d751.netlify.app/).
+
+
 
 
